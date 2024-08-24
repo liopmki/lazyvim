@@ -5,6 +5,7 @@ return {
   { import = "lazyvim.plugins.extras.lang.nushell" }, -- Nushell
   { import = "lazyvim.plugins.extras.lang.toml" }, -- Toml
   { import = "lazyvim.plugins.extras.lang.git" }, -- Git
+  { import = "lazyvim.plugins.extras.lang.tailwind" }, -- TailwindCSS
   -- colorscheme
   {
     "LazyVim/LazyVim",
